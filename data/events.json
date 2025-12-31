@@ -1,0 +1,252 @@
+[
+  {
+    "time": "2025-12-18 11:45:59.636084",
+    "level": "WARNING",
+    "message": "[NEW PORT] 5000"
+  },
+  {
+    "time": "2025-12-18 11:45:59.647528",
+    "level": "WARNING",
+    "message": "[NEW IP] 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:45:59.650406",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:46:13.925334",
+    "level": "WARNING",
+    "message": "[NEW PROCESS] sudo(321789) CPU:0.0%"
+  },
+  {
+    "time": "2025-12-18 11:46:13.926616",
+    "level": "WARNING",
+    "message": "[NEW PROCESS] sudo(321790) CPU:0.0%"
+  },
+  {
+    "time": "2025-12-18 11:46:13.927105",
+    "level": "WARNING",
+    "message": "[NEW PROCESS] python3(321791) CPU:0.0%"
+  },
+  {
+    "time": "2025-12-18 11:46:13.927685",
+    "level": "WARNING",
+    "message": "[NEW PROCESS] python3(321792) CPU:0.0%"
+  },
+  {
+    "time": "2025-12-18 11:46:13.953778",
+    "level": "WARNING",
+    "message": "[NEW IP] 91.108.4.181"
+  },
+  {
+    "time": "2025-12-18 11:46:13.957143",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 91.108.4.181"
+  },
+  {
+    "time": "2025-12-18 11:46:30.256738",
+    "level": "CRITICAL",
+    "message": "[NEW FILE] /var/log/test_final4.sh HASH:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "time": "2025-12-18 11:46:42.551791",
+    "level": "WARNING",
+    "message": "[NEW IP] 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:46:42.554984",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:46:56.851887",
+    "level": "WARNING",
+    "message": "[NEW IP] 91.108.4.181"
+  },
+  {
+    "time": "2025-12-18 11:46:56.855018",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 91.108.4.181"
+  },
+  {
+    "time": "2025-12-18 11:47:39.738945",
+    "level": "WARNING",
+    "message": "[NEW IP] 91.108.4.181"
+  },
+  {
+    "time": "2025-12-18 11:47:39.741461",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 91.108.4.181"
+  },
+  {
+    "time": "2025-12-18 11:47:39.742113",
+    "level": "WARNING",
+    "message": "[NEW IP] 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:47:39.744345",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:48:08.331585",
+    "level": "WARNING",
+    "message": "[NEW IP] 91.108.4.180"
+  },
+  {
+    "time": "2025-12-18 11:48:08.334918",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 91.108.4.180"
+  },
+  {
+    "time": "2025-12-18 11:48:08.335738",
+    "level": "WARNING",
+    "message": "[NEW IP] 80.94.93.119"
+  },
+  {
+    "time": "2025-12-18 11:48:08.338436",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 80.94.93.119"
+  },
+  {
+    "time": "2025-12-18 11:48:22.634367",
+    "level": "WARNING",
+    "message": "[NEW IP] 91.108.4.181"
+  },
+  {
+    "time": "2025-12-18 11:48:22.637772",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 91.108.4.181"
+  },
+  {
+    "time": "2025-12-18 11:48:22.638330",
+    "level": "WARNING",
+    "message": "[NEW IP] 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:48:22.640460",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:48:51.233146",
+    "level": "WARNING",
+    "message": "[NEW IP] 91.108.4.180"
+  },
+  {
+    "time": "2025-12-18 11:48:51.235943",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 91.108.4.180"
+  },
+  {
+    "time": "2025-12-18 11:49:05.532136",
+    "level": "WARNING",
+    "message": "[NEW IP] 91.108.4.181"
+  },
+  {
+    "time": "2025-12-18 11:49:05.535061",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 91.108.4.181"
+  },
+  {
+    "time": "2025-12-18 11:49:19.829531",
+    "level": "WARNING",
+    "message": "[NEW IP] 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:49:19.832123",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:49:34.125818",
+    "level": "WARNING",
+    "message": "[NEW IP] 91.108.4.180"
+  },
+  {
+    "time": "2025-12-18 11:49:34.128757",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 91.108.4.180"
+  },
+  {
+    "time": "2025-12-18 11:49:48.319614",
+    "level": "WARNING",
+    "message": "[NEW IP] 91.108.4.181"
+  },
+  {
+    "time": "2025-12-18 11:49:48.322461",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 91.108.4.181"
+  },
+  {
+    "time": "2025-12-18 11:50:02.706714",
+    "level": "WARNING",
+    "message": "[NEW PROCESS] kworker/0:1(321848) CPU:0.0%"
+  },
+  {
+    "time": "2025-12-18 11:50:02.707423",
+    "level": "WARNING",
+    "message": "[NEW PROCESS] nc(321853) CPU:0.0%"
+  },
+  {
+    "time": "2025-12-18 11:50:02.719092",
+    "level": "WARNING",
+    "message": "[NEW PORT] 4444"
+  },
+  {
+    "time": "2025-12-18 11:50:02.732180",
+    "level": "WARNING",
+    "message": "[NEW IP] 193.46.255.217"
+  },
+  {
+    "time": "2025-12-18 11:50:02.735898",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 193.46.255.217"
+  },
+  {
+    "time": "2025-12-18 11:50:02.736860",
+    "level": "WARNING",
+    "message": "[NEW IP] 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:50:02.739515",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:51:00.194646",
+    "level": "WARNING",
+    "message": "[NEW PROCESS] ping(321862) CPU:0.0%"
+  },
+  {
+    "time": "2025-12-18 11:51:00.213667",
+    "level": "WARNING",
+    "message": "[NEW IP] 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:51:00.216744",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:51:43.215268",
+    "level": "WARNING",
+    "message": "[NEW IP] 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:51:43.219450",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 34.92.62.225"
+  },
+  {
+    "time": "2025-12-18 11:51:43.220822",
+    "level": "WARNING",
+    "message": "[NEW IP] 92.118.39.36"
+  },
+  {
+    "time": "2025-12-18 11:51:43.224383",
+    "level": "CRITICAL",
+    "message": "[IPS] Blocked IP 92.118.39.36"
+  }
+]
